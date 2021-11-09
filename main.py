@@ -12,7 +12,9 @@ for i in range(n):
   
  x=str(i)
  sl=str(salario)
+ 
  print('El salario para el trabajador '+x+' es de: '+sl)
+
 
   
 
